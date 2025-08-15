@@ -1,40 +1,28 @@
-# Olá! 👋 Eu sou o David Teotonio
+# Olá! 👋 Eu sou o Christian David
 
-💻 **Desenvolvedor em [Java, JavaScript e Typescript]**  
-🚀 Apaixonado por [Desenvolvimento Web - Back-end]  
-📍 Localização: Picos - PI, Brasil  
+💻 **Desenvolvedor Back-End** 
+🚀 Apaixonado por aprender novas tecnologias e criar projetos úteis  
+📍 Picos - PI, Brasil  
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidteotonio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidteotonio&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidteotonio&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidteotonio&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seuusuario/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:seuemail@gmail.com)
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christian-david-teotonio-santos/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davioteotonio05@gmail.com)
 
-<!--
-**ChrisDav05/ChrisDav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
